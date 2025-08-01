@@ -3,6 +3,8 @@ langchain-core
 langchain-community
 langchain-huggingface
 
+pypdf
+
 langchain-openai
 openai
 
