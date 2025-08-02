@@ -27,11 +27,6 @@ result = chain.invoke({'question': 'what is the product that we are talking abou
 
 print(result)
 
-
-
-
-
-
 print(len(docs))
 
 print(docs[0].page_content)
